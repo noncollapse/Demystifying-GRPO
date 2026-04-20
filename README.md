@@ -1,4 +1,4 @@
-# Demystifying GRPO: Its PolicyGradient is a U-Statistic
+# Demystifying GRPO: Its Policy Gradient is a U-Statistic
 
 [![Paper](https://img.shields.io/badge/arXiv-2603.01162-b31b1b.svg)](https://arxiv.org/abs/2603.01162)
 [![Dataset Few-shot](https://img.shields.io/badge/🤗%20Dataset-Kyleyee%2Farithmetic--few--shot-blue)](https://huggingface.co/datasets/Kyleyee/arithmetic-few-shot)
@@ -213,3 +213,18 @@ If this repository is useful in your work, please cite:
   year={2026}
 }
 ```
+
+## 🙋 Support
+
+For questions and issues:
+- Open an issue on GitHub
+- Check existing issues for solutions
+- Email us
+
+## 🔗 Related Resources
+
+
+- [veRL Framework](https://github.com/volcengine/verl) - For GRPO training
+- [HuggingFace Datasets](https://huggingface.co/docs/datasets/) - Dataset management
+- [Transformers](https://huggingface.co/docs/transformers/) - Model library
+- [TRL (Transformer Reinforcement Learning)](https://github.com/huggingface/trl) - For SFT training
