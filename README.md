@@ -6,20 +6,22 @@
 
 This repository provides practical scripts to reproduce key empirical parts of:
 
-Demystifying Group Relative Policy Optimization: Its Policy Gradient is a U-Statistic.
+*Demystifying Group Relative Policy Optimization: Its Policy Gradient is a U-Statistic.*
+
+
+
+## 🗺️ Project Roadmap
+
+The roadmap below summarizes our papers main results about gradient analysis, and policy optimization.
+
+<p align="center">
+    <img src="figs/road_map.png" alt="Project roadmap" width="95%" />
+</p>
 
 The codebase is organized around two goals:
 
 1. Gradient-side evaluation of Oracle-V and trace(cov) behavior.
 2. Policy optimization launch scripts for GRPO-style training based on VERL.
-
-## 🗺️ Project Roadmap
-
-The roadmap below summarizes how this repository connects datasets, gradient-side analysis, and policy optimization.
-
-<p align="center">
-    <img src="figs/road_map.png" alt="Project roadmap" width="95%" />
-</p>
 
 ## 🤗 Resources
 
