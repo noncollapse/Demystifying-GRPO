@@ -63,7 +63,7 @@ We strongly recommend enabling Weights & Biases (wandb) to monitor training curv
 
 ## 🖥️ Recommended GPU Requirements
 
-- Gradient-side evaluation experiment: 1 GPU with 48GB+ VRAM
+- Gradient evaluation experiment: 1 GPU with 48GB+ VRAM
 - GRPO Training: 4+ GPUs with 96GB+ VRAM each
 
 ## 🚀 Quick Start
