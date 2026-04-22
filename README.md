@@ -20,8 +20,8 @@ The roadmap below summarizes our papers main results about gradient analysis, an
 
 Our experiments contain two parts:
 
-1. Evaluation of the MSE of GRPO-type policy gradients.
-2. GRPO-type policy optimization based on VERL.
+1. Evaluation of the MSE of GRPO-type policy gradients (Zhou et al., Section 5.1).
+2. GRPO-type policy optimization based on VERL (Zhou et al., Section 5.2).
 
 ## 🤗 Resources
 
