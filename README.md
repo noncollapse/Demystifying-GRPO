@@ -34,13 +34,13 @@ Our experiments contain two parts:
 ## 🎯 What This Repository Contains
 
 - [Gradient_evaluation/calculate_oracle_v.py](Gradient_evaluation/calculate_oracle_v.py)
-Computes per-example Oracle V via Monte Carlo rollouts.
+Computes per-prompt oracle value function via Monte Carlo rollouts for evaluating the gradient of the Oracle algorithm.
 
 - [Gradient_evaluation/run_tracecov.py](Gradient_evaluation/run_tracecov.py)
-Estimates full-parameter conditional trace(cov) curves for Vanilla, GRPO, and Oracle estimators.
+Evaluates MSEs of Vanilla, GRPO, and Oracle policy gradients. Since all three estimators are unbiased, their MSEs are equal to the traces of their covariance matrices.
 
 - [Policy_Optimization/grpo_train.sh](Policy_Optimization/grpo_train.sh)
-Wandb-friendly, non-container GRPO training launcher with a user-editable configuration block.
+A simple GRPO training launcher (no containers required) with wandb support and easy-to-edit configuration.
 
 ## 🧩 Installation
 
