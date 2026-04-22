@@ -26,7 +26,8 @@ Our experiments contain two parts:
 ## 🤗 Resources
 
 - Paper page: https://arxiv.org/abs/2603.01162
-- Dataset (few-shot): https://huggingface.co/datasets/Kyleyee/arithmetic-few-shot -- 
+- Dataset (few-shot): https://huggingface.co/datasets/Kyleyee/arithmetic-few-shot
+  * For evaluating  
 - Dataset (naive): https://huggingface.co/datasets/Kyleyee/arithmetic-test
 
 ## 🎯 What This Repository Contains
