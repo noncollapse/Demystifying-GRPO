@@ -27,8 +27,9 @@ Our experiments contain two parts:
 
 - Paper page: https://arxiv.org/abs/2603.01162
 - Dataset (few-shot): https://huggingface.co/datasets/Kyleyee/arithmetic-few-shot
-  * For evaluating  
+  * For evaluating policy gradients of the ICL model (Zhou et al., Figure 4c)
 - Dataset (naive): https://huggingface.co/datasets/Kyleyee/arithmetic-test
+  * For evaluating policy gradients of Base and Instruct models (Zhou et al., Figure 4a & 4b)
 
 ## 🎯 What This Repository Contains
 
