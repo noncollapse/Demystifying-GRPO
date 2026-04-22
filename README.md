@@ -4,7 +4,7 @@
 [![Dataset Few-shot](https://img.shields.io/badge/🤗%20Dataset-Kyleyee%2Farithmetic--few--shot-blue)](https://huggingface.co/datasets/Kyleyee/arithmetic-few-shot)
 [![Dataset Test](https://img.shields.io/badge/🤗%20Dataset-Kyleyee%2Farithmetic--test-blue)](https://huggingface.co/datasets/Kyleyee/arithmetic-test)
 
-This repository provides practical scripts to reproduce key empirical parts of:
+This repository provides the code for reproducing the empirical results reported in the paper:
 
 *Demystifying Group Relative Policy Optimization: Its Policy Gradient is a U-Statistic.*
 
