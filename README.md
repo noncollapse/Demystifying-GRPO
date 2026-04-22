@@ -44,13 +44,13 @@ A simple GRPO training launcher (no containers required) with wandb support and 
 
 ## 🧩 Installation
 
-The dependency references follow TRL and VERL ecosystems.
+The dependencies follow TRL and VERL ecosystems.
 
 - TRL: https://github.com/huggingface/trl
 - VERL: https://github.com/volcengine/verl
 
-For policy optimization scripts, follow VERL installation first.
-For gradient evaluation scripts, a minimal environment is:
+For policy optimization, please follow the VERL installation guide.
+For gradient evaluation, a minimal environment required is:
 
 ```bash
 conda create -n demystifying-grpo python=3.10 -y
